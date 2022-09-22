@@ -1,0 +1,69 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+/* Navbar CSS */
+.navbar-brand{
+  padding: 5px;
+  padding-left: 1.5rem;
+}
+.navbar-nav{
+  left: 60%;
+}
+.nav-title{
+  color: #fff;
+  padding: 0 0.75rem;
+}
+
+
+/* Hero CSS */
+.img1{
+  height: 450px;
+  padding-left: 30%;
+}
+.img2{
+  height: 450px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.hero3-div{
+  border-radius: 25px;
+  padding-right: 200px !important;
+
+}
+.hero3-btn{
+  margin: 10px 20px !important;
+}
+
+/* FAQ CSS */
+.Accordion{
+  position: absolute;
+  left: 45%;
+  top: 35%;
+  font-size: 14px;
+}
+.acc-side{
+  position: absolute;
+  left: 5%;
+  top: 45%;
+}
+.acc-item{
+  background-color: aqua !important;;
+  font-size: 16px !important;
+}
+.acc-title .acc-body{
+  background-color: aqua !important;;
+  font-size: 16px !important;
+}
